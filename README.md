@@ -1,4 +1,4 @@
-# invie-github
-Guitarras de aire omg
+# invie
+Las guitarras más locas
 
-Derechos reservados BY @Alan_Aguilar (Nekromorfo20) Estudios en Platzi S.A de C.V
+http://invie.website
