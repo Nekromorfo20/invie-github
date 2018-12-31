@@ -1,4 +1,4 @@
-# invie-github
-Guitarras de aire omg
+# invie
+Guitarras de aire OMG version 2.0!!
 
-Derechos reservados BY @Alan_Aguilar (Nekromorfo20) Estudios en Platzi S.A de C.V
+http://invie.website
